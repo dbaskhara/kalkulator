@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="Hint">Masukkan Angka</string>
+    <string name="bangun1">Kubus</string>
+    <string name="bangun2">Balok</string>
+    <string name="bangun3">Tabung</string>
+    <string name="bangun4">Bola</string>
+    <string name="back">Kembali</string>
+    <string name="result">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="hint_kubus1">Masukkan Sisi</string>
+    <string name="hint_balok1">Masukkan Panjang</string>
+    <string name="hint_balok2">Masukkan Tinggi</string>
+    <string name="hint_balok3">Masukkan Lebar</string>
+    <string name="hint_tabung1">Masukkan Jari jari</string>
+    <string name="hint_tabung2">Masukkan Tinggi</string>
+    <string name="hint_tabung3">Pi</string>
+    <string name="hint_bola1">Masukkan Jari jari</string>
+    <string name="hint_bola2">Konstanta</string>
+    <string name="hint_bola3">Pi</string>
+</resources>
